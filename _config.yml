@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: App Support
-show_downloads: "false"
-show_github: "false"
+show_downloads: NO
+show_github: NO
