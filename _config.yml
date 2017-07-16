@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
 title: App Support
-show_downloads: YES
+show_downloads: "true"
