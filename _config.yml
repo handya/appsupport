@@ -1,8 +1,2 @@
 theme: jekyll-theme-cayman
 title: App Support
-defaults:
-  -
-    scope:
-      path: "/test" # an empty string here means all files in the project
-    values:
-      layout: "default"
