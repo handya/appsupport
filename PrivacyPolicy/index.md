@@ -3,14 +3,16 @@ This policy applies to all information collected or submitted on our apps for iP
 The administrators of this app take the protection of your personal data very seriously. We treat your personal data confidentiality and in accordance with the legal data protection regulations as well as this data protection declaration. As a rule, our app can be used without providing personal data. As far as personal data (e.g. name, address or e-mail addresses) are collected in the app, this is always done on a voluntary basis as far as possible. This data will not be passed on to third parties without your express consent. We would like to point out that data transmission on the Internet (e.g. communication by e-mail) can be subject to security gaps. A complete protection of the data against access by third parties is not possible.
 ## Information we collect
 When using the App, we collect the following technical data to enable the functions of the App, which is automatically collected from your mobile device and transmitted to us when you use the App (this data is referred to collectively as "usage data" below):
-your device name (for example "Apple iPhone 8" or "iPad Mini")
-Operating System and Version
-App Version
-App Version
-Set System Language
-General Device Data, such as Language and Regional Settings
-Date and Time of Use
-Application ID to Identify Your App Installation
+
+- Your device name (for example "Apple iPhone 8" or "iPad Mini")
+
+- Operating System and Version
+- App Version
+- 
+- Set System Language
+- General Device Data, such as Language and Regional Settings
+- Date and Time of Use
+- Application ID to Identify Your App Installation
 For App Improvement, the App will also send us a message after a crash (i.e., after the App has been shut down) (i.e., after the App has been installed).i.e. after the app was terminated unexpectedly due to a program error or it no longer responded to your input). The error messages do not contain any personal data, but only the aforementioned technical device information as well as information about which part of the software code of the app caused the error.
 ## Privacy policy for the use of AdMob/Advertising
 Our free applications are advertising supported. The advertising partner of the apps is AdMob Google Inc. We have no influence whatsoever on the collection of personal data by AdMob Google Inc. The AdMob Privacy Policy applies here: http://admob.com/home/privacy. We use the advertising partner AdSense to display advertisements on the website.
@@ -30,4 +32,4 @@ If you have questions regarding this privacy policy, you may email specialcircum
 ## Changes to this policy
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
 
-Oct 15, 2018: First published.
+- Oct 15, 2018: First published.
