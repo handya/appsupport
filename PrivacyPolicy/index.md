@@ -29,4 +29,5 @@ By using our site or apps, you consent to our privacy policy.
 If you have questions regarding this privacy policy, you may email specialcircumstancesapps@gmail.com
 ## Changes to this policy
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
-# Oct 15, 2018: First published.
+
+Oct 15, 2018: First published.
