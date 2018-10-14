@@ -3,12 +3,9 @@ This policy applies to all information collected or submitted on our apps for iP
 The administrators of this app take the protection of your personal data very seriously. We treat your personal data confidentiality and in accordance with the legal data protection regulations as well as this data protection declaration. As a rule, our app can be used without providing personal data. As far as personal data (e.g. name, address or e-mail addresses) are collected in the app, this is always done on a voluntary basis as far as possible. This data will not be passed on to third parties without your express consent. We would like to point out that data transmission on the Internet (e.g. communication by e-mail) can be subject to security gaps. A complete protection of the data against access by third parties is not possible.
 ## Information we collect
 When using the App, we collect the following technical data to enable the functions of the App, which is automatically collected from your mobile device and transmitted to us when you use the App (this data is referred to collectively as "usage data" below):
-
 - Your device name (for example "Apple iPhone 8" or "iPad Mini")
-
 - Operating System and Version
 - App Version
-- 
 - Set System Language
 - General Device Data, such as Language and Regional Settings
 - Date and Time of Use
