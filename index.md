@@ -17,6 +17,7 @@ Feedback is welcome.
 
 ## Support
 <center>
-If you are having an issue with one of my apps, please email me using the link above.
-Please add as much detail as posible. 
+If you are having an issue with one of my apps, please email me using the link above. 
+
+Please add as much detail as possible, to make it easier for me to help you..
 </center>
