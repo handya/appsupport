@@ -10,14 +10,14 @@ I make iOS apps for me, and share them with you. I do this with no employees and
 Feedback is welcome.
 
 <center>
-<a href="https://itunes.apple.com/nz/developer/andrew-farquharson/id852921471&amp;ct=site-mainsite">
+<a href="https://apps.apple.com/us/developer/andrew-farquharson/id852921471">
 <img src="http://andrew.farquharson.co.nz/appstore.svg">
 </a>
 </center>
 
 ## Support
 <center>
-If you are having an issue with one of my apps, please email me using the link above. 
+If you are having an issues with one of my apps, please email me, using the link above. 
 
-Please add as much detail as possible, to make it easier for me to help you..
+Please add as much detail as possible, to make it easier for me to help you.
 </center>
