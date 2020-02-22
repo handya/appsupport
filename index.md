@@ -2,8 +2,11 @@
 <img src="http://andrew.farquharson.co.nz/appicons.png">
 </center>
 
-## Hi, I’m Andrew. 
-I make iOS apps for me, and share them with you. I do this with no employees or no funding, and I try to have a sustainable world-life balance. 
+## About. 
+Hi, I’m Andy, an independent iOS developer from New Zealand. 
+
+I make iOS apps for me, and share them with you. I do this with no employees and no funding, I try to have a sustainable work-life balance.
+
 Feedback is welcome.
 
 <center>
