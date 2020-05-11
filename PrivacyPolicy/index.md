@@ -27,7 +27,7 @@ This privacy policy contains all or part of the content from the following sourc
 ## Your Consent
 By using our site or apps, you consent to our privacy policy.
 ## Contacting Us
-If you have questions regarding this privacy policy, you may email specialcircumstancesapps@gmail.com
+If you have questions regarding this privacy policy, you may email support@digitaltools.nz
 ## Changes to this policy
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
 
