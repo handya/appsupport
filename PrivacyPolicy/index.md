@@ -31,5 +31,6 @@ If you have questions regarding this privacy policy, you may email support@digit
 ## Changes to this policy
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
 
+- May 11, 202: Update support email
 - Dec 6, 2018: Added Facebook privacy policy (some apps like Sticky Stickman now use Facebook analytics API)
 - Oct 15, 2018: First published.
